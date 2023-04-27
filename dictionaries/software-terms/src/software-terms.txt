@@ -870,6 +870,7 @@ mixins
 mkdtemp
 mkfs
 mkswap
+MLP
 MMDDYY
 mmddyyyy
 MMDDYYYY
@@ -1007,6 +1008,7 @@ pbkdf1
 pbkdf2
 pcie
 pcregrep
+perceptron
 perf
 performant
 perl6
@@ -1170,6 +1172,7 @@ resizable
 resize
 resized
 resizing
+ResNet
 resolution
 restructuredtext
 rethrow
